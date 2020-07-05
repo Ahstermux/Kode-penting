@@ -58,30 +58,30 @@ fi
 if [ $nomor = 4 ] || [ $nomor = 04 ]
 then 
 clear
-figlet KAS TEAM
-echo " BAYAR KAS SETIAP HARI MINGGU
-echo " KAS 2K 
-echo " BENDAHARA M NUR ALIF
-echo " SEKETARIS M NUR ALIF
-echo " Yang sudah membayar
-echo " 01. 
+figlet KAS TEAM | lolcat
+echo " BAYAR KAS SETIAP HARI MINGGU" | lolcat
+echo " KAS 2K" | lolcat
+echo " BENDAHARA M NUR ALIF" | lolcat
+echo " SEKETARIS M NUR ALIF" | lolcat
+echo " Yang sudah membayar" | lolcat
+echo " 01. " | lolcat
 read nomor
-echo " 02. 
+echo " 02. " | lolcat
 read nomor
-echo " 03. 
+echo " 03. " | lolcat
 read nomor
-echo " 04. 
+echo " 04. " | lolcat
 read nomor
-echo " 05. 
+echo " 05. " | lolcat
 read nomor
-echo " 06. 
+echo " 06. " | lolcat
 read nomor
-echo " 07. 
+echo " 07. " | lolcat
 read nomor
-echo " 08. 
+echo " 08. " | lolcat
 read nomor
-echo " 09. 
+echo " 09. " | lolcat
 read nomor
-echo " 10. 
+echo " 10. " | lolcat
 read nomor
 fi
