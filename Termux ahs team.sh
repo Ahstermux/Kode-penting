@@ -53,6 +53,7 @@ echo " SEKOLAH" | lolcat
 read nomor 
 echo " NO TLP" | lolcat
 read nomor 
+echo " SCREENSHOOT DULU SEBELUM DI ENTER" | lolcat
 fi
 
 if [ $nomor = 4 ] || [ $nomor = 04 ]
