@@ -28,6 +28,7 @@ echo " A. PLAT L" | lolcat
 echo " B. BANG JAK" | lolcat
 echo " C. CAK GANTENG" | lolcat
 echo " D. cak r" | lolcat
+exit
 fi
 
 if [ $nomor = 2 ] || [ $nomor = 02 ]
@@ -39,6 +40,7 @@ echo " Sanksi melanggar peraturan adalah :" | lolcat
 echo " Peraturan :" | lolcat
 echo " 01. Dilarang menheluarkan aggota team dari group" | lolcat
 echo " 02. COMMING SOON" | lolcat
+exit
 fi
 
 if [ $nomor = 3 ] || [ $nomor = 03 ]
@@ -54,6 +56,7 @@ read nomor
 echo " NO TLP" | lolcat
 read nomor 
 echo " SCREENSHOOT DULU SEBELUM DI ENTER" | lolcat
+exit
 fi
 
 if [ $nomor = 4 ] || [ $nomor = 04 ]
@@ -85,4 +88,5 @@ echo " I." | lolcat
 read nomor
 echo " J." | lolcat
 read nomor
+exit
 fi
