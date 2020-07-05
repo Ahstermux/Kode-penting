@@ -21,7 +21,7 @@ then
 clear
 figlet JADWAL SHIFT | lolcat
 echo " SHIFT MALAM" | lolcat
-echo " A. ANONY SETENGAH 12" |
+echo " A. ANONY SETENGAH 12" | lolcat
 echo " B. mamanglubiz" | lolcat
 echo " SHIFT PAGI" | lolcat
 echo " A. PLAT L" | lolcat
