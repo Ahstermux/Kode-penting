@@ -68,25 +68,25 @@ echo " KAS 2K" | lolcat
 echo " BENDAHARA M NUR ALIF" | lolcat
 echo " SEKETARIS M NUR ALIF" | lolcat
 echo " Yang sudah membayar" | lolcat
-echo " A." | lolcat
+echo " A" | lolcat
 read nomor
-echo " B." | lolcat
+echo " B" | lolcat
 read nomor
-echo " C." | lolcat
+echo " C" | lolcat
 read nomor
-echo " D." | lolcat
+echo " D" | lolcat
 read nomor
-echo " E." | lolcat
+echo " E" | lolcat
 read nomor
-echo " F." | lolcat
+echo " F" | lolcat
 read nomor
-echo " G." | lolcat
+echo " G" | lolcat
 read nomor
-echo " H." | lolcat
+echo " H" | lolcat
 read nomor
-echo " I." | lolcat
+echo " I" | lolcat
 read nomor
-echo " J." | lolcat
+echo " J" | lolcat
 read nomor
 exit
 fi
