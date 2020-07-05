@@ -16,7 +16,7 @@ echo " [04] Jadwal Kas" | lolcat
 echo " Nomor  : " | lolcat
 read nomor
 
-if [ $nomor = 1 ] || [ $eue = 01 ]
+if [ $nomor = 1 ] || [ $nomor = 01 ]
 then
 clear
 figlet JADWAL SHIFT | lolcat
