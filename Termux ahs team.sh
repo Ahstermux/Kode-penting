@@ -21,13 +21,13 @@ then
 clear
 figlet JADWAL SHIFT | lolcat
 echo " SHIFT MALAM" | lolcat
-echo " [A] A SETENGAH 12" |
-echo " [B] mamanglubiz" | lolcat
+echo " A. A SETENGAH 12" |
+echo " B. mamanglubiz" | lolcat
 echo " SHIFT PAGI" | lolcat
-echo " [A] PLAT L" | lolcat
-echo " [B] BANG JAK" | lolcat
-echo " [C] CAK GANTENG" | lolcat
-echo " [D] cak r" | lolcat
+echo " A. PLAT L" | lolcat
+echo " B. BANG JAK" | lolcat
+echo " C. CAK GANTENG" | lolcat
+echo " D. cak r" | lolcat
 fi
 
 if [ $nomor = 2 ] || [ $nomor = 02 ]
