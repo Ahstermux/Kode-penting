@@ -21,13 +21,13 @@ then
 clear
 figlet JADWAL SHIFT | lolcat
 echo " SHIFT MALAM" | lolcat
-echo " [01] A SETENGAH 12" |
-echo " [02] mamanglubiz" | lolcat
+echo " [A] A SETENGAH 12" |
+echo " [B] mamanglubiz" | lolcat
 echo " SHIFT PAGI" | lolcat
-echo " [01] PLAT L" | lolcat
-echo " [02] BANG JAK" | lolcat
-echo " [03] CAK GANTENG" | lolcat
-echo " [04] cak r" | lolcat
+echo " [A] PLAT L" | lolcat
+echo " [B] BANG JAK" | lolcat
+echo " [C] CAK GANTENG" | lolcat
+echo " [D] cak r" | lolcat
 fi
 
 if [ $nomor = 2 ] || [ $nomor = 02 ]
@@ -65,24 +65,24 @@ echo " KAS 2K" | lolcat
 echo " BENDAHARA M NUR ALIF" | lolcat
 echo " SEKETARIS M NUR ALIF" | lolcat
 echo " Yang sudah membayar" | lolcat
-echo " 01. " | lolcat
+echo " A. " | lolcat
 read nomor
-echo " 02. " | lolcat
+echo " B. " | lolcat
 read nomor
-echo " 03. " | lolcat
+echo " C. " | lolcat
 read nomor
-echo " 04. " | lolcat
+echo " D. " | lolcat
 read nomor
-echo " 05. " | lolcat
+echo " E. " | lolcat
 read nomor
-echo " 06. " | lolcat
+echo " F. " | lolcat
 read nomor
-echo " 07. " | lolcat
+echo " G. " | lolcat
 read nomor
-echo " 08. " | lolcat
+echo " H. " | lolcat
 read nomor
-echo " 09. " | lolcat
+echo " I. " | lolcat
 read nomor
-echo " 10. " | lolcat
+echo " J. " | lolcat
 read nomor
 fi
