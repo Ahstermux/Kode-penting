@@ -36,10 +36,13 @@ then
 clear
 figlet PERATURAN | lolcat
 echo " Dilarang melanggar peraturan" | lolcat
-echo " Sanksi melanggar peraturan adalah :" | lolcat
+echo " Sanksi melanggar peraturan adalah : Denda 1k" | lolcat
 echo " Peraturan :" | lolcat
-echo " 01. Dilarang menheluarkan aggota team dari group" | lolcat
-echo " 02. COMMING SOON" | lolcat
+echo " 01. Dilarang mengeluarkan aggota team dari group" | lolcat
+echo " 02. Gak oleh nggarai" | lolcat
+echo " 03. Dilarang mengoda sehingga menyebabkan bete pada anggota team" | lolcat
+echo " 04. Patuhi aturan membayar kas" | lolcat
+echo " 05. Dilarang marah marah hanya menasehati" | lolcat
 exit
 fi
 
