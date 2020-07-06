@@ -43,6 +43,7 @@ echo " 02. Gak oleh nggarai" | lolcat
 echo " 03. Dilarang mengoda sehingga menyebabkan bete pada anggota team" | lolcat
 echo " 04. Patuhi aturan membayar kas" | lolcat
 echo " 05. Dilarang marah marah hanya menasehati" | lolcat
+echo " 06. JIKA ADA YANG BELUM KAS DI KASIH WAKTU 1 MINGGU DULU JIKA SUDAH 1 MINGGU BELUM BAYAR MAKA DOUBLE" | lolcat
 exit
 fi
 
@@ -68,6 +69,7 @@ clear
 figlet KAS TEAM | lolcat
 echo " BAYAR KAS SETIAP HARI MINGGU" | lolcat
 echo " KAS 2K" | lolcat
+echo " JIKA ADA YANG BELUM BAYAR DI KASIH WAKTU 1 MINGGU DULU" | lolcat
 echo " BENDAHARA M NUR ALIF" | lolcat
 echo " SEKETARIS M NUR ALIF" | lolcat
 echo " Yang sudah membayar" | lolcat
@@ -91,5 +93,6 @@ echo " I" | lolcat
 read nomor
 echo " J" | lolcat
 read nomor
+echo " SCRENSHOOT DULU SEBELUM DI ENTER" | lolcat
 exit
 fi
